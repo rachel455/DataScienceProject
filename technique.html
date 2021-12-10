@@ -1,9 +1,27 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Techniques</title>
+        <link rel="stylesheet" type="text/css" href="css/technique.css">
     </head>
     <body>
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="index.html">Home</a>
+            <a href="technique.html">Techniques</a>
+            <a href="citations.html">Citations</a>
+        </div>
+        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Click menu icon more sections about the project!</span>
+    
+        <script>
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            }
+        </script>
         <h1>Techniques used for this Project</h1>
         <p>The techniques I used for this project</p>
     </body>
