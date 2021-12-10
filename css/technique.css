@@ -2,6 +2,10 @@ body{
     background-color: rgb(183, 221, 208);
 }
 
+h1{
+    float: center;
+}
+
 .sidenav {
     height: 100%;
     width: 0;
