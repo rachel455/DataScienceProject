@@ -23,8 +23,8 @@ li a:hover {
     background-color: #111;
   }
 
-.main-header {
-    padding: 100px;
-    /*text-align: center;*/
-  }
+.header {
+    padding: 60px;
+    text-align: center;
+}
   
