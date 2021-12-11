@@ -1,0 +1,75 @@
+,,,,,Trends in Black Carbon - Mean : Chart Over Time
+X axis title: Year
+Y axis title: Mean (absorbance units)
+Indicator Name: Black Carbon
+Indicator Description: Black carbon is a major component of fine particulate matter (PM) in the air. Particulate matter is easily inhaled into the lungs and can contribute to both short-term acute health effects as well as long-term chronic illness.
+Indicator Measure: Mean
+Indicator How Calculated: <p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. Black carbon levels are estimated using a method that measures <a href="http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx#Absorbance" target="_blank">absorbance</a>.</p>
+Indicator Source(s): New York City Community Air Survey
+
+Compare Type,Line Label,X Value,Y Value,Geography Name,Geography ID,note,
+Citywide,New York City,Annual Average 2011,1.0602,New York City,1,,
+Citywide,New York City,Annual Average 2013,0.9379,New York City,1,,
+Citywide,New York City,Annual Average 2009,1.0761,New York City,1,,
+Citywide,New York City,Annual Average 2016,0.82,New York City,1,,
+Citywide,New York City,Annual Average 2017,0.73,New York City,1,,
+Citywide,New York City,Annual Average 2018,0.69,New York City,1,,
+Citywide,New York City,Annual Average 2012,0.9796,New York City,1,,
+Citywide,New York City,Annual Average 2014,0.8977,New York City,1,,
+Citywide,New York City,Annual Average 2010,1.0723,New York City,1,,
+Citywide,New York City,Annual Average 2015,0.8644,New York City,1,,
+Boroughs,Bronx,Annual Average 2018,0.8,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2018,0.69,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2018,0.99,Manhattan,3,,
+Boroughs,Queens,Annual Average 2018,0.66,Queens,4,,
+Boroughs,Bronx,Annual Average 2014,1.1,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2014,0.85,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2014,1.41,Manhattan,3,,
+Boroughs,Queens,Annual Average 2014,0.83,Queens,4,,
+Boroughs,Staten Island,Annual Average 2014,0.75,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2011,1.29,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2011,1.04,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2011,1.55,Manhattan,3,,
+Boroughs,Bronx,Annual Average 2009,1.31,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2009,1.05,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2009,1.56,Manhattan,3,,
+Boroughs,Queens,Annual Average 2009,1.01,Queens,4,,
+Boroughs,Staten Island,Annual Average 2016,0.67,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2017,0.86,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2017,0.73,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2017,1.04,Manhattan,3,,
+Boroughs,Queens,Annual Average 2017,0.69,Queens,4,,
+Boroughs,Queens,Annual Average 2011,1,Queens,4,,
+Boroughs,Staten Island,Annual Average 2011,0.85,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2016,0.92,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2016,0.83,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2016,1.24,Manhattan,3,,
+Boroughs,Queens,Annual Average 2016,0.78,Queens,4,,
+Boroughs,Staten Island,Annual Average 2018,0.56,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2012,1.17,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2012,0.97,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2012,1.42,Manhattan,3,,
+Boroughs,Queens,Annual Average 2012,0.91,Queens,4,,
+Boroughs,Staten Island,Annual Average 2009,0.9,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2013,1.19,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2013,0.92,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2013,1.42,Manhattan,3,,
+Boroughs,Queens,Annual Average 2013,0.88,Queens,4,,
+Boroughs,Staten Island,Annual Average 2013,0.73,Staten Island,5,,
+Boroughs,Staten Island,Annual Average 2017,0.61,Staten Island,5,,
+Boroughs,Staten Island,Annual Average 2012,0.83,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2015,1.04,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2015,0.86,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2015,1.35,Manhattan,3,,
+Boroughs,Queens,Annual Average 2015,0.81,Queens,4,,
+Boroughs,Staten Island,Annual Average 2015,0.67,Staten Island,5,,
+Boroughs,Bronx,Annual Average 2010,1.29,Bronx,1,,
+Boroughs,Brooklyn,Annual Average 2010,1.06,Brooklyn,2,,
+Boroughs,Manhattan,Annual Average 2010,1.51,Manhattan,3,,
+Boroughs,Queens,Annual Average 2010,1.03,Queens,4,,
+Boroughs,Staten Island,Annual Average 2010,0.86,Staten Island,5,,
+
+NYC Department of Health and Mental Hygiene
+Environment & Health Data Portal
+More information can be found at: http://nyc.gov/health/tracking
+Accessed 12/09/2021
